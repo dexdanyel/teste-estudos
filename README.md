@@ -1,2 +1,2 @@
-# teste-estudos
- usado apenas para aprendisagem pessoal.
+# Meus testes e estudos
+ usado apenas para minha aprendisagem .
